@@ -1,3 +1,4 @@
+#DXruby ノベルゲーム
 require 'dxruby'
 require_relative './class/game_data.rb'
 require_relative './class/field.rb'
