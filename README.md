@@ -3,6 +3,7 @@ novel_games
 
 ## Description
 ・DXRubyで制作した"ノベルゲーム(?)の素材"
+
 ・画像/文字/分岐位置を変更して使用する事を前提としています。
 
 ## Demo
